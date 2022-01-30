@@ -19,10 +19,6 @@ def read_template(filename):
         template_file_content = template_file.read()
         return Template(template_file_content)
 
-# ojo esto es nuevo
-def main():
- message_template = read_template('template.txt')
-
 # setup SMTP sender server
 MY_ADDRESS = input('Your mail address: ')
 PASSWORD = getpass.getpass('set your password: ')
@@ -89,8 +85,5 @@ with open('mail_list.csv', 'r') as csv_file:
 
 # quit STMP session
 s.quit()
-
-if __name__ == '__main__':
-    main()
 
 print('\n--\nSucceeded!')

@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/github/pipenv/locked/python-version/diegohalabi/mini-hacks">
+
 # Python Multimail
 
 A very simple hack to send a lot of personalized emails at once, attached with one or more files.

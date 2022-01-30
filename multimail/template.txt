@@ -1,0 +1,22 @@
+Estimad${PERSON_GENDER} ${PERSON_NAME}
+
+
+Le escribe el Dr. ${SENDER_NAME}, Profesor de Tesina de Titulación de la Escuela de Odontología de la Universidad Austral de Chile.
+
+Dada su experiencia, su nombre ha sido propuesto por ${ADVISOR_GENDER} ${ADVISOR_NAME} para la evaluación de la Tesina de Titulación titulada:
+
+"${THESIS_TITLE}".
+
+Las tesinas de nuestra Escuela están en formato de publicación científica, por lo que su extensión es similar a un manuscrito de una revista científica, aproximadamente 5000 palabras.
+
+Nos honraría que pudiese participar mediante la evaluación de esta tesina completando la evaluación adjunta y enviándola antes del ${DEADLINE} del presente.
+
+Por favor, en caso que considere no poder entregar su evaluación antes del ${DEADLINE}, le ruego me lo haga saber.
+
+Su participación será reconocida mediante un Certificado de Participación como Evaluador, en caso que Ud. lo solicite.
+
+Por favor, si tuviera cualquier consulta no dude en escribirme directamente a este correo.
+
+Desde ya agradezco su atención y quedo atento a su respuesta.
+
+Le saluda atentamente,

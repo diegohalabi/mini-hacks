@@ -20,4 +20,4 @@ A straightforward hack to send many personalized mails at once, attached with on
 
 ## Limitations:
 
-* The attachment module only works with Gmail (my university officially use Office365), which must be set to a low-security level. I hope to solve this soon cause it is a problem for me.
+* The attachment module only works with Gmail, which must be set to a low-security level. I hope to solve this soon cause it is a problem for me (my university officially use Office365).

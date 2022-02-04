@@ -2,7 +2,7 @@
 
 # Mini Hacks
 
-Simple hacks that I have programmed to make life easier.
+Simple hacks that I have programmed to make my life easier.
 
 ### ✉️ [Multimail](/multimail)
 Send multiple personalized emails at once with attachments.
